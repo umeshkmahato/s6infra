@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of a turnkey project combining site planning, construction and completed assets">
+  <!-- Original vector artwork generated for the S6 Infra projects section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07121e"/>
+      <stop offset="44%" stop-color="#1f4060"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="plan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e2238"/>
+      <stop offset="100%" stop-color="#27415a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="938" cy="156" r="62" fill="#fff3be" opacity="0.34"/>
+  <path d="M0 594 C194 546 350 540 528 566 C732 598 920 626 1200 578 V900 H0 Z" fill="#203649" opacity="0.38"/>
+  <rect y="710" width="1200" height="190" fill="#14110f"/>
+
+  <g transform="translate(88 278)">
+    <rect x="0" y="0" width="408" height="286" rx="24" fill="url(#plan)" opacity="0.96"/>
+    <rect x="28" y="28" width="352" height="230" rx="16" fill="#0b1220"/>
+    <g stroke="#7dd3fc" stroke-width="6" opacity="0.84">
+      <path d="M68 196 H220 V88 H68 Z" fill="none"/>
+      <path d="M92 196 V136 H164 V196" fill="none"/>
+      <path d="M246 92 H334"/>
+      <path d="M246 126 H350"/>
+      <path d="M246 160 H318"/>
+      <path d="M70 220 C124 186 188 170 246 156 C286 146 320 134 356 112" fill="none"/>
+    </g>
+    <rect x="28" y="274" width="122" height="12" rx="6" fill="#f59e0b"/>
+    <rect x="166" y="274" width="88" height="12" rx="6" fill="#38bdf8" opacity="0.8"/>
+  </g>
+
+  <g transform="translate(566 328)">
+    <rect x="0" y="138" width="420" height="242" rx="16" fill="#314556"/>
+    <rect x="44" y="176" width="114" height="204" rx="12" fill="#3f586f"/>
+    <rect x="186" y="104" width="160" height="276" rx="12" fill="#243649"/>
+    <rect x="366" y="210" width="54" height="170" rx="8" fill="#42586e"/>
+    <rect x="212" y="136" width="48" height="198" rx="4" fill="#d7eafe" opacity="0.78"/>
+    <rect x="276" y="136" width="48" height="198" rx="4" fill="#d7eafe" opacity="0.78"/>
+  </g>
+
+  <g stroke="#fbbf24" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="814" y1="192" x2="814" y2="536"/>
+    <line x1="814" y1="216" x2="1012" y2="216"/>
+    <line x1="912" y1="216" x2="912" y2="258"/>
+  </g>
+  <path d="M1012 216 L1076 216 L1050 262 L986 262 Z" fill="#f59e0b"/>
+
+  <path d="M116 766 H1088" stroke="#f5c45b" stroke-width="8" stroke-linecap="round" stroke-dasharray="46 34" opacity="0.82"/>
+</svg>

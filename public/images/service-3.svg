@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of a bridge construction project spanning a river">
+  <!-- Original vector artwork generated for the S6 Infra services section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081221"/>
+      <stop offset="46%" stop-color="#27496b"/>
+      <stop offset="100%" stop-color="#f5a524"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#245f8c"/>
+      <stop offset="100%" stop-color="#11324f"/>
+    </linearGradient>
+    <linearGradient id="deck" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#495769"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="922" cy="160" r="54" fill="#fff5c6" opacity="0.38"/>
+  <path d="M0 580 C144 546 266 536 426 564 C574 590 768 624 1200 572 L1200 900 L0 900 Z" fill="#203247" opacity="0.42"/>
+  <rect y="676" width="1200" height="224" fill="#17212f"/>
+  <path d="M0 690 C174 664 332 662 494 688 C664 716 874 742 1200 684 V900 H0 Z" fill="url(#water)"/>
+  <path d="M94 760 C246 724 360 720 514 748 C656 772 812 778 1114 726" fill="none" stroke="#63b3ed" stroke-width="10" opacity="0.36" stroke-linecap="round"/>
+
+  <g>
+    <rect x="286" y="420" width="48" height="270" rx="10" fill="#334155"/>
+    <rect x="866" y="420" width="48" height="270" rx="10" fill="#334155"/>
+    <rect x="552" y="332" width="96" height="358" rx="14" fill="#425266"/>
+    <path d="M180 454 H1024 L1056 520 H148 Z" fill="url(#deck)"/>
+    <rect x="162" y="520" width="892" height="30" rx="14" fill="#202a37"/>
+  </g>
+
+  <g stroke="#f5c14d" stroke-width="5" opacity="0.82">
+    <line x1="600" y1="348" x2="250" y2="454"/>
+    <line x1="600" y1="348" x2="320" y2="454"/>
+    <line x1="600" y1="348" x2="390" y2="454"/>
+    <line x1="600" y1="348" x2="460" y2="454"/>
+    <line x1="600" y1="348" x2="530" y2="454"/>
+    <line x1="600" y1="348" x2="670" y2="454"/>
+    <line x1="600" y1="348" x2="740" y2="454"/>
+    <line x1="600" y1="348" x2="810" y2="454"/>
+    <line x1="600" y1="348" x2="880" y2="454"/>
+    <line x1="600" y1="348" x2="950" y2="454"/>
+  </g>
+
+  <g fill="#fbbf24" opacity="0.95">
+    <rect x="168" y="500" width="106" height="16" rx="8"/>
+    <rect x="926" y="500" width="94" height="16" rx="8"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M0 900 L0 722 L130 690 L150 900 Z" fill="#2c241e"/>
+    <path d="M1200 900 L1200 706 L1036 676 L1004 900 Z" fill="#2c241e"/>
+  </g>
+
+</svg>

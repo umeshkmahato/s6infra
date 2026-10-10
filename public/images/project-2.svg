@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of a bridge construction project with deck, pylons and river reflections">
+  <!-- Original vector artwork generated for the S6 Infra projects section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071420"/>
+      <stop offset="44%" stop-color="#1b4468"/>
+      <stop offset="100%" stop-color="#f7ab33"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#27618f"/>
+      <stop offset="100%" stop-color="#0f2f49"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="926" cy="154" r="62" fill="#fff4c0" opacity="0.36"/>
+  <path d="M0 586 C212 544 382 540 578 572 C776 606 956 622 1200 574 V900 H0 Z" fill="#22354b" opacity="0.38"/>
+  <path d="M0 700 C162 676 304 672 470 694 C648 716 846 742 1200 692 V900 H0 Z" fill="url(#river)"/>
+  <path d="M64 770 C246 738 394 732 562 756 C730 780 914 786 1126 736" fill="none" stroke="#6ad0ff" stroke-width="10" opacity="0.35" stroke-linecap="round"/>
+
+  <g>
+    <rect x="304" y="442" width="54" height="252" rx="10" fill="#314254"/>
+    <rect x="842" y="442" width="54" height="252" rx="10" fill="#314254"/>
+    <rect x="558" y="312" width="84" height="382" rx="12" fill="#42576c"/>
+    <path d="M164 468 H1040 L1072 536 H132 Z" fill="#273241"/>
+    <rect x="154" y="536" width="886" height="26" rx="13" fill="#1a202c"/>
+  </g>
+
+  <g stroke="#f5c14d" stroke-width="5" opacity="0.84">
+    <line x1="600" y1="330" x2="248" y2="468"/>
+    <line x1="600" y1="330" x2="312" y2="468"/>
+    <line x1="600" y1="330" x2="376" y2="468"/>
+    <line x1="600" y1="330" x2="440" y2="468"/>
+    <line x1="600" y1="330" x2="504" y2="468"/>
+    <line x1="600" y1="330" x2="696" y2="468"/>
+    <line x1="600" y1="330" x2="760" y2="468"/>
+    <line x1="600" y1="330" x2="824" y2="468"/>
+    <line x1="600" y1="330" x2="888" y2="468"/>
+    <line x1="600" y1="330" x2="952" y2="468"/>
+  </g>
+
+  <g fill="#fbbf24" opacity="0.94">
+    <rect x="178" y="514" width="96" height="16" rx="8"/>
+    <rect x="926" y="514" width="96" height="16" rx="8"/>
+  </g>
+</svg>

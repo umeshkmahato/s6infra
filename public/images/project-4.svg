@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of a water and irrigation project with reservoir, canals and pumping station">
+  <!-- Original vector artwork generated for the S6 Infra projects section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07223a"/>
+      <stop offset="46%" stop-color="#17658f"/>
+      <stop offset="100%" stop-color="#9de3ff"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6dd3ff"/>
+      <stop offset="100%" stop-color="#0b5d8c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="936" cy="154" r="58" fill="#f8fdff" opacity="0.34"/>
+  <path d="M0 578 C186 542 354 534 548 562 C742 590 930 614 1200 570 V900 H0 Z" fill="#1f4d57" opacity="0.3"/>
+  <path d="M0 694 C174 664 324 662 502 686 C692 712 878 730 1200 686 V900 H0 Z" fill="#1d4126"/>
+
+  <path d="M46 736 C236 664 404 650 594 668 C782 686 956 674 1154 612 L1154 706 C962 770 778 790 578 776 C392 762 238 778 46 846 Z" fill="url(#water)"/>
+  <path d="M130 748 C304 700 426 694 576 708 C772 726 912 714 1076 668" fill="none" stroke="#e0f7ff" stroke-width="8" opacity="0.44" stroke-linecap="round"/>
+
+  <g transform="translate(804 286)">
+    <rect x="0" y="118" width="172" height="30" rx="15" fill="#fbbf24"/>
+    <rect x="70" y="0" width="32" height="198" rx="8" fill="#dbeafe"/>
+    <circle cx="86" cy="70" r="58" fill="#d9f2ff"/>
+    <circle cx="86" cy="70" r="36" fill="#67d4ff"/>
+    <rect x="34" y="198" width="104" height="154" rx="14" fill="#244d63"/>
+    <rect x="56" y="228" width="60" height="92" rx="10" fill="#86d8ff" opacity="0.76"/>
+  </g>
+
+  <g transform="translate(184 548)">
+    <rect x="0" y="88" width="154" height="96" rx="18" fill="#243443"/>
+    <circle cx="46" cy="194" r="30" fill="#111827"/>
+    <circle cx="120" cy="194" r="30" fill="#111827"/>
+    <rect x="24" y="32" width="92" height="56" rx="10" fill="#f59e0b"/>
+    <path d="M154 126 C194 124 216 94 252 92 L252 128 C218 134 196 152 154 154 Z" fill="#c7dce9"/>
+    <path d="M252 110 H440" stroke="#c7dce9" stroke-width="22" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#9ae6b4" opacity="0.8">
+    <path d="M636 592 C648 560 676 544 696 510 C724 544 742 562 752 592 C758 614 744 638 696 662 C650 638 628 614 636 592 Z"/>
+    <path d="M726 604 C734 580 754 566 768 544 C786 566 798 584 804 604 C810 622 800 640 768 658 C734 640 720 620 726 604 Z" opacity="0.72"/>
+  </g>
+</svg>

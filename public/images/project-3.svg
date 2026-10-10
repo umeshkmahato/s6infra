@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of commercial and institutional buildings with a plaza and tower cranes">
+  <!-- Original vector artwork generated for the S6 Infra projects section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081525"/>
+      <stop offset="42%" stop-color="#244869"/>
+      <stop offset="100%" stop-color="#f6b14a"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0f2fe" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#7aa4c7" stop-opacity="0.34"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="930" cy="170" r="62" fill="#fff4c2" opacity="0.34"/>
+  <path d="M0 594 C180 540 340 534 530 566 C708 596 896 626 1200 576 L1200 900 L0 900 Z" fill="#22384e" opacity="0.4"/>
+  <rect y="710" width="1200" height="190" fill="#151311"/>
+
+  <g>
+    <rect x="126" y="388" width="208" height="322" rx="14" fill="#2e3e4f"/>
+    <rect x="362" y="336" width="228" height="374" rx="16" fill="#40556a"/>
+    <rect x="626" y="276" width="252" height="434" rx="16" fill="#2a3f52"/>
+    <rect x="916" y="404" width="146" height="306" rx="12" fill="#344457"/>
+  </g>
+
+  <g fill="url(#glass)" opacity="0.9">
+    <rect x="164" y="428" width="48" height="236" rx="4"/>
+    <rect x="232" y="428" width="48" height="236" rx="4"/>
+    <rect x="404" y="378" width="52" height="276" rx="4"/>
+    <rect x="476" y="378" width="52" height="276" rx="4"/>
+    <rect x="676" y="322" width="56" height="328" rx="4"/>
+    <rect x="752" y="322" width="56" height="328" rx="4"/>
+    <rect x="960" y="438" width="56" height="220" rx="4"/>
+  </g>
+
+  <g stroke="#fbbf24" stroke-width="10" stroke-linecap="round">
+    <line x1="302" y1="228" x2="302" y2="520"/>
+    <line x1="302" y1="248" x2="478" y2="248"/>
+    <line x1="736" y1="172" x2="736" y2="520"/>
+    <line x1="736" y1="196" x2="958" y2="196"/>
+  </g>
+  <path d="M478 248 L538 248 L514 288 L454 288 Z" fill="#f59e0b"/>
+  <path d="M958 196 L1020 196 L996 236 L934 236 Z" fill="#f59e0b"/>
+
+  <path d="M86 748 H1112" stroke="#3b3127" stroke-width="24" stroke-linecap="round" opacity="0.72"/>
+  <path d="M160 768 H1040" stroke="#f5c45b" stroke-width="8" stroke-linecap="round" stroke-dasharray="44 34" opacity="0.8"/>
+</svg>

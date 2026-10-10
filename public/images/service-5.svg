@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of modern building construction with tower cranes and a completed facade">
+  <!-- Original vector artwork generated for the S6 Infra services section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09182c"/>
+      <stop offset="48%" stop-color="#204969"/>
+      <stop offset="100%" stop-color="#f7b24a"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#7aa2c3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="910" cy="180" r="60" fill="#fff3c2" opacity="0.34"/>
+  <path d="M0 612 C220 560 404 548 598 576 C808 608 992 628 1200 588 L1200 900 L0 900 Z" fill="#213548" opacity="0.38"/>
+  <rect y="700" width="1200" height="200" fill="#191510"/>
+
+  <g>
+    <rect x="144" y="404" width="162" height="296" rx="10" fill="#2f3c4d"/>
+    <rect x="334" y="352" width="198" height="348" rx="10" fill="#405064"/>
+    <rect x="566" y="284" width="212" height="416" rx="12" fill="#304457"/>
+    <rect x="816" y="374" width="194" height="326" rx="10" fill="#24313f"/>
+  </g>
+
+  <g fill="url(#tower)" opacity="0.84">
+    <rect x="174" y="438" width="36" height="226" rx="4"/>
+    <rect x="224" y="438" width="36" height="226" rx="4"/>
+    <rect x="372" y="392" width="42" height="262" rx="4"/>
+    <rect x="430" y="392" width="42" height="262" rx="4"/>
+    <rect x="612" y="328" width="46" height="314" rx="4"/>
+    <rect x="678" y="328" width="46" height="314" rx="4"/>
+    <rect x="864" y="414" width="42" height="246" rx="4"/>
+    <rect x="924" y="414" width="42" height="246" rx="4"/>
+  </g>
+
+  <g stroke="#fbbf24" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="282" y1="200" x2="282" y2="562"/>
+    <line x1="282" y1="224" x2="470" y2="224"/>
+    <line x1="392" y1="224" x2="392" y2="270"/>
+    <line x1="760" y1="166" x2="760" y2="560"/>
+    <line x1="760" y1="194" x2="980" y2="194"/>
+    <line x1="888" y1="194" x2="888" y2="248"/>
+  </g>
+
+  <g fill="#f59e0b" opacity="0.92">
+    <path d="M478 242 L552 242 L524 292 L450 292 Z"/>
+    <path d="M990 214 L1060 214 L1032 264 L962 264 Z"/>
+  </g>
+
+  <path d="M0 744 C202 714 348 710 522 726 C732 744 936 748 1200 716" fill="none" stroke="#2c241d" stroke-width="22" opacity="0.65" stroke-linecap="round"/>
+  <path d="M130 770 H1060" stroke="#f5c45b" stroke-width="8" stroke-linecap="round" stroke-dasharray="46 34" opacity="0.76"/>
+</svg>

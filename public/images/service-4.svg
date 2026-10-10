@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of water and irrigation infrastructure with canals and a pump tower">
+  <!-- Original vector artwork generated for the S6 Infra services section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08223c"/>
+      <stop offset="50%" stop-color="#17608c"/>
+      <stop offset="100%" stop-color="#8cd4ff"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6bd3ff"/>
+      <stop offset="100%" stop-color="#0f5f8c"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#486f32"/>
+      <stop offset="100%" stop-color="#24461d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="960" cy="132" r="58" fill="#f8fdff" opacity="0.34"/>
+  <path d="M0 566 C228 522 392 526 588 558 C764 588 920 600 1200 562 L1200 900 L0 900 Z" fill="#1f4c55" opacity="0.32"/>
+  <rect y="620" width="1200" height="280" fill="#1d3f23"/>
+
+  <path d="M0 730 C178 690 300 678 454 690 C624 704 752 698 896 674 C1030 654 1110 644 1200 652 V900 H0 Z" fill="url(#field)"/>
+  <path d="M0 752 C188 720 350 716 490 732 C664 752 850 746 1200 686" fill="none" stroke="#5b8d3e" stroke-width="18" opacity="0.45" stroke-linecap="round"/>
+
+  <path d="M88 722 C258 662 382 654 544 666 C742 680 904 670 1160 612 L1160 694 C908 754 716 772 532 758 C344 746 232 758 88 810 Z" fill="url(#water)"/>
+  <path d="M180 736 C346 700 446 698 596 710 C776 724 920 712 1082 672" fill="none" stroke="#d8f7ff" stroke-width="8" opacity="0.46" stroke-linecap="round"/>
+
+  <g transform="translate(862 286)">
+    <rect x="0" y="124" width="134" height="28" rx="14" fill="#fbbf24"/>
+    <rect x="52" y="0" width="30" height="192" rx="8" fill="#d7e7ef"/>
+    <circle cx="67" cy="66" r="54" fill="#dbeafe"/>
+    <circle cx="67" cy="66" r="34" fill="#7dd3fc"/>
+    <rect x="26" y="192" width="82" height="142" rx="12" fill="#234c63"/>
+    <rect x="44" y="222" width="46" height="84" rx="8" fill="#8bd9ff" opacity="0.72"/>
+  </g>
+
+  <g transform="translate(150 520)">
+    <rect x="0" y="86" width="140" height="86" rx="16" fill="#1f2937"/>
+    <circle cx="40" cy="182" r="30" fill="#111827"/>
+    <circle cx="112" cy="182" r="30" fill="#111827"/>
+    <rect x="20" y="36" width="86" height="54" rx="10" fill="#f59e0b"/>
+    <path d="M140 120 C176 120 198 98 226 96 L226 126 C198 130 176 146 140 146 Z" fill="#b6cfe2"/>
+    <path d="M226 102 H386" stroke="#b6cfe2" stroke-width="20" stroke-linecap="round"/>
+    <path d="M386 102 V172" stroke="#b6cfe2" stroke-width="20" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.85" fill="#a7f3d0">
+    <path d="M640 590 C652 556 682 542 700 512 C724 542 744 560 754 590 C760 610 748 636 700 660 C652 636 632 612 640 590 Z"/>
+    <path d="M726 610 C736 582 756 568 770 544 C788 568 800 584 808 610 C812 626 804 644 770 662 C734 644 720 626 726 610 Z" opacity="0.72"/>
+  </g>
+
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Original illustration of a road development project with multilane highway and site equipment">
+  <!-- Original vector artwork generated for the S6 Infra projects section. -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081424"/>
+      <stop offset="46%" stop-color="#1e4564"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a4350"/>
+      <stop offset="100%" stop-color="#121720"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="934" cy="160" r="66" fill="#fff4c0" opacity="0.34"/>
+  <path d="M0 580 C178 528 332 522 508 554 C688 586 870 616 1200 568 L1200 900 L0 900 Z" fill="#213549" opacity="0.38"/>
+  <path d="M0 674 C250 638 438 638 612 664 C804 692 978 700 1200 654 V900 H0 Z" fill="#29311f" opacity="0.74"/>
+
+  <path d="M474 470 C608 454 744 470 856 510 C974 552 1068 630 1188 790 L1188 900 H36 L160 744 C260 616 352 528 474 470 Z" fill="url(#road)"/>
+  <path d="M588 470 C672 470 754 486 830 518 C934 562 1018 632 1108 758" fill="none" stroke="#545f72" stroke-width="74" stroke-linecap="round" opacity="0.6"/>
+  <path d="M564 520 C652 520 734 536 810 570 C902 610 980 674 1056 776" fill="none" stroke="#1c232d" stroke-width="42" stroke-linecap="round" opacity="0.7"/>
+
+  <g stroke="#f5c14d" stroke-width="8" stroke-linecap="round" opacity="0.84">
+    <path d="M578 554 C648 558 714 574 780 602" stroke-dasharray="34 24"/>
+    <path d="M824 624 C892 666 950 718 1006 792" stroke-dasharray="34 24"/>
+    <path d="M520 744 H714" stroke-dasharray="42 34"/>
+  </g>
+
+  <g transform="translate(122 562)">
+    <rect x="0" y="92" width="128" height="30" rx="10" fill="#fbbf24"/>
+    <circle cx="28" cy="130" r="24" fill="#1f2937"/>
+    <circle cx="100" cy="130" r="24" fill="#1f2937"/>
+    <rect x="20" y="46" width="56" height="44" rx="8" fill="#ffd77c"/>
+    <path d="M84 92 L140 54 L148 92 Z" fill="#e58d07"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="862" y="476" width="22" height="116" fill="#e2e8f0"/>
+    <rect x="872" y="466" width="112" height="22" rx="11" fill="#f59e0b"/>
+  </g>
+</svg>
