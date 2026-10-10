@@ -202,9 +202,8 @@ textarea {
 }
 
 .site-logo--footer {
-  width: clamp(100px, 12vw, 150px);
+  width: clamp(100px, 12vw, 120px);
   height: auto;
-  margin-bottom: 14px;
 }
 
 .logo-circle {
@@ -215,8 +214,8 @@ textarea {
   height: clamp(80px, 12vw, 100px);
   border-radius: 50%;
   background-color: #f59e0b;
-  padding: 15px;
-  margin-bottom: 20px;
+  padding: 10px;
+  margin: 2px;
 }
 
 .logo-circle .site-logo {
@@ -1089,7 +1088,7 @@ textarea {
   display: grid;
   gap: 12px;
   width: min(360px, calc(100vw - 32px));
-  z-index: 950;
+  z-index: 1100;
   pointer-events: none;
 }
 
@@ -1155,7 +1154,7 @@ textarea {
 .site-footer {
   background: #070d18;
   color: #9ca3af;
-  padding: 50px 0 25px;
+  padding: 25px;
 }
 
 .footer-grid {
