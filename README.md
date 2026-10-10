@@ -77,41 +77,9 @@ npm run format
 
 ## Environment Variables
 
-Create `.env.local`:
+Create `.env.local`: and add feilds from `.env.example`
 
-```env
-NEXT_PUBLIC_API_URL=https://api.s6infra.com
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_SECURE=false
-SMTP_USER=info.s6infra@gmail.com
-SMTP_PASS=your-gmail-app-password
-CONTACT_FROM_EMAIL=info.s6infra@gmail.com
-CONTACT_TO_EMAIL=info.s6infra@gmail.com
-GOOGLE_SHEETS_SPREADSHEET_ID=your-spreadsheet-id
-GOOGLE_SHEETS_SHEET_NAME=Enquiries
-GOOGLE_SHEETS_CLIENT_EMAIL=your-service-account@your-project.iam.gserviceaccount.com
-GOOGLE_SHEETS_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
-```
 
-### Contact Form Email Setup
-
-The contact form now posts to `POST /api/contact` and sends an email to `info.s6infra@gmail.com`.
-
-- For Gmail, use an **App Password** for `SMTP_PASS` instead of your regular Gmail password.
-- Keep `CONTACT_FROM_EMAIL` aligned with the authenticated SMTP mailbox to avoid delivery issues.
-- The sender's email entered in the form is added as the `replyTo` address, so replies go back to the enquirer.
-- The API includes basic spam protection with a honeypot field, minimum fill-time check, link-count screening, and IP-based rate limiting.
-
-### Optional Google Sheets Storage
-
-If you want to keep a spreadsheet copy of each enquiry, configure the Google Sheets variables above and then:
-
-1. Create a Google Cloud service account with Sheets API access.
-2. Share your target spreadsheet with the `GOOGLE_SHEETS_CLIENT_EMAIL` address.
-3. Store the spreadsheet ID and private key in `.env.local`.
-
-When configured, each enquiry is appended to the selected sheet with timestamp, contact details, message, IP address, and user agent.
 
 ## Key Technologies
 
@@ -156,16 +124,16 @@ When configured, each enquiry is appended to the selected sheet with timestamp, 
 
 ## Best Practices Implemented
 
-✅ Modular component architecture
-✅ Type-safe API calls
-✅ Form validation with Zod
-✅ Environment variable management
-✅ Responsive design patterns
-✅ Error handling
-✅ Code splitting & lazy loading ready
-✅ SEO metadata
-✅ Security headers in next.config
-✅ Intersection Observer for animations
+- ✅ Modular component architecture
+- ✅ Type-safe API calls
+- ✅ Form validation with Zod
+- ✅ Environment variable management
+- ✅ Responsive design patterns
+- ✅ Error handling
+- ✅ Code splitting & lazy loading ready
+- ✅ SEO metadata
+- ✅ Security headers in next.config
+- ✅ Intersection Observer for animations
 
 ## Next Steps
 
@@ -178,10 +146,4 @@ When configured, each enquiry is appended to the selected sheet with timestamp, 
 7. **Performance**: Implement image optimization
 8. **PWA**: Add PWA capabilities
 
-## Contributing
 
-Follow the established code structure and conventions. All TypeScript files must have proper type annotations.
-
-## License
-
-ISC
